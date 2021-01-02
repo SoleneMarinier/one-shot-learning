@@ -1,1 +1,1 @@
-# One-shot-learning
+# Palm Recognition using Siamese Network
