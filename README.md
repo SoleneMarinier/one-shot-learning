@@ -11,4 +11,6 @@ execute cells in `palm-recognition.ipynb`
 Keras
 mention [Fingerprint Recognition](https://github.com/utsav-195/fingerprint-recognition-using-siamese-network-with-retraining)
 
+![model_architecture](model_architecture.png)
+
 ## Results
