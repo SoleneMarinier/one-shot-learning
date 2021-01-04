@@ -14,7 +14,7 @@ The image used to test the model is in the folder `test_images`.
 ## Implementation
 
 We produced a pipeline which works executing the cells in `palm-recognition.ipynb`, after formatting the data as described above. 
-We used the following framework for the pre-processing part [Fingerprint Recognition](https://github.com/utsav-195/fingerprint-recognition-using-siamese-network-with-retraining)
+We used the following framework f [Fingerprint Recognition](https://github.com/utsav-195/fingerprint-recognition-using-siamese-network-with-retraining)
 
 Make sure you execute the preprocessing part only once.
 To deal with One-shot learning we implement Siamese network using Keras. Hereinafter the plot of the model architecture.
