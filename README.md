@@ -8,6 +8,7 @@ We have built our own dataset by taking pictures of our palms. The folder `image
 During pre-processing we created synthethic images and stored them in to .jpg format. For convenience, you should upload your images in .jpg format as well.
 
 We trained the model and stored it in the folder `model`.
+The model is a file bigger than 25 MB, follow this link to download it : https://drive.google.com/file/d/1zHezEPd47ZHgEgNhc_c_lprdQbxkU4zT/view?usp=sharing
 
 The image used to test the model is in the folder `test_images`.
 
