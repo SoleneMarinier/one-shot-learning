@@ -21,3 +21,5 @@ To deal with One-shot learning we implement Siamese network using Keras. Hereina
 ![model_architecture](model_architecture.png)
 
 ## Results
+
+![results](results.png)
